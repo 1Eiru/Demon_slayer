@@ -1,0 +1,9 @@
+goal:
+10 major demon souls 
+
+enemies: 
+randomize into 1,2, or 3 demons in a fight.
+
+map:
+demon's lair
+shop

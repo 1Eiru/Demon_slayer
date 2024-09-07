@@ -1,0 +1,1 @@
+{"package": "demon.slayer", "name": "Demon Slayer", "icon_name": "Demon Slayer", "version": "1.0", "numeric_version": 1, "orientation": "sensor", "permissions": ["VIBRATE", "INTERNET"], "include_pil": false, "include_sqlite": false, "layout": null, "source": false, "expansion": false, "store": "none", "update_icons": true, "update_always": true, "heap_size": "3"}

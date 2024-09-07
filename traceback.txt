@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/slayer_v_skeleton.rpy", line 51, in script
+    $ tempo -=  slayer.attack_dmg - slayer.attack_dmg * 0.5
+  File "game/slayer_v_skeleton.rpy", line 51, in <module>
+    $ tempo -=  slayer.attack_dmg - slayer.attack_dmg * 0.5
+NameError: name 'tempo' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/slayer_v_skeleton.rpy", line 51, in script
+    $ tempo -=  slayer.attack_dmg - slayer.attack_dmg * 0.5
+  File "C:\Users\EIrruzel\Desktop\renpy\renpy-8.0.3-sdk\renpy\ast.py", line 1131, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\Users\EIrruzel\Desktop\renpy\renpy-8.0.3-sdk\renpy\python.py", line 1061, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/slayer_v_skeleton.rpy", line 51, in <module>
+    $ tempo -=  slayer.attack_dmg - slayer.attack_dmg * 0.5
+NameError: name 'tempo' is not defined
+
+Windows-10-10.0.19044 AMD64
+Ren'Py 8.0.3.22090809
+Demon Slayer 1.0
+Wed Dec 14 13:49:55 2022

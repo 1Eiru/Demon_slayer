@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/slayer_v_skeleton.rpy", line 2: invalid syntax
+    default tempo = 0
+             ^
+    
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Wed Dec 14 13:48:27 2022
